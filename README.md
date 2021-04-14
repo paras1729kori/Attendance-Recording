@@ -2,7 +2,7 @@
 A simple attendance recoding system. Makes taking attendance easy as it never was.
 
 Libraries Required:
- * [Open CV](https://pypi.org/project/opencv-python/))
+ * [Open CV](https://pypi.org/project/opencv-python/)
  * [Numpy](https://numpy.org/install/)
  * [Face_Recognition](https://pypi.org/project/face-recognition/)
  * OS (inBuilt)
