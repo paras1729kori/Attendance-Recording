@@ -1,5 +1,5 @@
 # Attendance System
-A simple attendance recoding system. Makes taking attendance easy as it never was.
+A simple attendance recoding system.
 
 Libraries Required:
  * [Open CV](https://pypi.org/project/opencv-python/)
