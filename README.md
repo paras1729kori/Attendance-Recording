@@ -1,4 +1,4 @@
-# OpenCV_FR
+# Attendance System
 A simple attendance recoding system. Makes taking attendance easy as it never was.
 
 Libraries Required:
