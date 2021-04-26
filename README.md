@@ -8,6 +8,6 @@ Libraries Required:
  * OS (inBuilt)
 
 Simply clone the project into your local PC
-  * Add the pictures of the people you want to record the attendance of.
+  * Add the pictures of the people you want to record the attendance of, in imagesAttendance folder.
   * Then run the file named attedanceProject.py
   * The recorded attendance will be shown in the Attendance.csv file
