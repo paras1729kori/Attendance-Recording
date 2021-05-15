@@ -6,6 +6,7 @@ Libraries Required:
  * [Numpy](https://numpy.org/install/)
  * [Face_Recognition](https://pypi.org/project/face-recognition/)
  * OS (inBuilt)
+ * DateTime (inBuilt)
 
 Simply clone the project into your local PC
   * Add the pictures of the people you want to record the attendance of, in imagesAttendance folder.
