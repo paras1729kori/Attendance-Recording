@@ -13,5 +13,5 @@ Simply clone the project into your local PC
   * The recorded attendance will be shown in the Attendance.csv file
 
 ### Results
-![FR1](https://user-images.githubusercontent.com/61196454/118245896-f14be180-b4be-11eb-9f71-e8f133097fd8.png)
-![FR2](https://user-images.githubusercontent.com/61196454/118245959-06287500-b4bf-11eb-924d-ec0ef326af1d.png)
+
+https://user-images.githubusercontent.com/61196454/118350510-c15f1580-b574-11eb-8a9f-577563d9c6dd.mov
