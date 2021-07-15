@@ -1,4 +1,4 @@
-# Attendance System
+# <div align="center">Attendance System</div>
 A simple attendance recoding system.
 
 Libraries Required:
