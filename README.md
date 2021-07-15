@@ -13,6 +13,6 @@ Simply clone the project into your local PC
   * Then run the file named attedanceProject.py
   * The recorded attendance will be shown in the Attendance.csv file
 
-### Results
+### Demo
 
 https://user-images.githubusercontent.com/61196454/118350510-c15f1580-b574-11eb-8a9f-577563d9c6dd.mov
